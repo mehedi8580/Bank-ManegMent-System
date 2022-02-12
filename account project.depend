@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543401187 source:c:\users\mehed\desktop\account project\main.cpp
+	<bits/stdc++.h>
+	"account inf.h"
+
+1542561897 c:\users\mehed\desktop\account project\account inf.h
+
+1543401189 source:c:\users\mehed\desktop\account project\account inf.cpp
+	<bits/stdc++.h>
+	"account inf.h"
+
